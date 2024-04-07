@@ -1,0 +1,6 @@
+
+[
+    { "id": 1, "name": "Laptop", "description": "High-performance device" },
+    { "id": 2, "name": "Smartphone", "description": "Latest tech product" },
+    { "id": 20, "name": "Drone", "description": "Fly high and capture aerial photos and videos" }
+]
